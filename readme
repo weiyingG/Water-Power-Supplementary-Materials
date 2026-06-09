@@ -1,3 +1,29 @@
-# Water-Power Supplementary Materials
+# Supplementary Materials
 
-Test repository for Zenodo integration.
+## Associated Manuscript
+
+Relaxations of Operational Models of Electricity and Water Systems with Variable-Speed Pumps
+
+## Description
+
+This repository contains the GAMS model files associated with the manuscript.
+
+### Files
+
+**SmallExample.gms**
+
+Contains the illustrative example data described in the manuscript.
+
+**CaseStudy.gms**
+
+Contains the case-study model data used to generate the results reported in the manuscript.
+
+## Authors
+
+Weiying Gu
+Ramteen Sioshansi
+
+## Citation
+
+Please cite the associated journal article when using these materials.
+
